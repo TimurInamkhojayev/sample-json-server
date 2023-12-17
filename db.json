@@ -1,7 +1,7 @@
 { "id": 1,
-                    "firstname": 'Тимур',
-                    "lastname": 'Инамходжаев',
-                    "email": 'inamkhojayev@icloud.com',
+                    "firstname": "Тимур",
+                    "lastname": "Инамходжаев",
+                    "email": "inamkhojayev@icloud.com'",
                     "age": 19,
                     "content": "Очень хорошее качество костюмов. Вежливые консультанты, подберут отличный классический или Casual образ под ваш стиль и мероприятие",
                     "rating": 5
